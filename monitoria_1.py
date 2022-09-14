@@ -23,7 +23,7 @@ Created on Wed Sep 14 16:46:40 2022
 
 
 ## Crie quatro listas com 5 variáveis cada.
-### Variáveis dos mesmos tipos em cada lista.
+### Objetos dos mesmos tipos em cada lista.
 
 # lista_1 = [a, 'Álvaro', 'Matheus', 'Victória', 'Cebolinha']
 # lista_2 = [b, 33, 23, 25, 8]
@@ -69,7 +69,7 @@ Created on Wed Sep 14 16:46:40 2022
 
 
 ## Laços if
-### Crie um laço if com condições referentes às variáveis a, b, c e d.
+### Crie um laço if com condições referentes aos objetos a, b, c e d.
 
 
 
